@@ -1,33 +1,75 @@
-.container{
-    background-color: hsla(60, 100%, 50%, 0.774);
+.container {
+    /* background-image: url(./imag/images/burger2.jpg); */
+    background-color: hsla(51, 100%, 58%, 0.962);
+    display: absolute;
+
 }
 
 
-.routes{
-    list-style:none;
+.routes {
+    list-style: none;
     display: flex;
     gap: 2rem;
-}
 
-.nav-links{
+
+
+
+
     /* border-bottom: 3px groove #333; */
     font-size: large;
     font-weight: 500;
+    justify-items: 2;
 }
 
-.inner-container{
+.inner-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    
+    justify-items: left;
+
+
+
 }
 
 
-.company-title{
-    text-shadow:2px 2px 5px rgba(0, 0, 0, 0.5);
+.company-title {
+    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.93);
     display: flex;
     align-items: center;
-    gap:1rem;
+    gap: 1rem;
+
+
+
+}
+/* 
+.nav-colors {
+    color: green;
+    text-shadow: 2px 2px 5px rgb(67, 192, 18);
+
 }
 
+.home-color {
+    color: red;
+    text-shadow: 2px 2px 5px rgba(177, 19, 19, 0.993);
+    ;
+
+}
+
+.help-color {
+    color: rgb(45, 8, 231);
+    text-shadow: 2px 2px 5px rgba(14, 14, 188, 0.806);
+}
+
+.about-color {
+    color: rgb(255, 0, 102);
+    text-shadow: 2px 2px 5px rgba(218, 22, 58, 0.902);
+
+
+
+
+} */
+
+.body {
+    background-color: black;
+}

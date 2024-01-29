@@ -1,0 +1,10 @@
+.hero-container{
+    /* width:100%;  */
+    padding: 10rem;
+    background-image: url('./../../images/burger2.jpg');
+    background-position: center center;
+    object-fit: cover;
+    /* border: 3px groove black; */
+    /* padding-block: 18rem;
+    padding-inline: 18rem; */
+}
