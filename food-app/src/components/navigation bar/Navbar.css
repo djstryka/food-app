@@ -1,20 +1,12 @@
-.container {
-    /* background-image: url(./imag/images/burger2.jpg); */
-    background-color: hsla(51, 100%, 58%, 0.962);
-    display: absolute;
+.fuck {
+    background: rgb(255, 193, 22);
 
 }
-
 
 .routes {
     list-style: none;
     display: flex;
     gap: 2rem;
-
-
-
-
-
     /* border-bottom: 3px groove #333; */
     font-size: large;
     font-weight: 500;
@@ -42,34 +34,40 @@
 
 
 }
-/* 
+
 .nav-colors {
-    color: green;
-    text-shadow: 2px 2px 5px rgb(67, 192, 18);
+    font-size: larger;
+    font-weight: 500;
 
 }
 
 .home-color {
-    color: red;
-    text-shadow: 2px 2px 5px rgba(177, 19, 19, 0.993);
-    ;
+    font-size: larger;
+    font-weight: 500;
 
 }
 
 .help-color {
-    color: rgb(45, 8, 231);
-    text-shadow: 2px 2px 5px rgba(14, 14, 188, 0.806);
+    font-size: larger;
+    font-weight: 500;
 }
 
 .about-color {
-    color: rgb(255, 0, 102);
-    text-shadow: 2px 2px 5px rgba(218, 22, 58, 0.902);
-
-
-
-
-} */
+    font-size: larger;
+    font-weight: 500;
+}
+.contact-color {
+    font-size: larger;
+    font-weight: 500;
+}
 
 .body {
     background-color: black;
+}
+
+.burger {}
+
+.burger {
+    display: flex;
+
 }
